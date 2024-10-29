@@ -1,0 +1,6 @@
+@dies.NET_HostAddress = http://localhost:5251
+
+GET {{dies.NET_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
